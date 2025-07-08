@@ -1,1 +1,3 @@
 # ShopSwift
+
+Follow these steps:
