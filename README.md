@@ -1,6 +1,7 @@
 # ShopSwift
 
-Live On : 
+Live On : https://ecommerce-shopswift.netlify.app/
+
 Follow these steps:
 
 # Step 1: Clone the repository using the project's Git URL.
